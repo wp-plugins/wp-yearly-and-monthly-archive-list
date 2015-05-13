@@ -42,8 +42,8 @@ Ans:  The plugin is no way conflicts with any other database table but it is sug
 == Screenshots ==
 
 The functionality can be found in the screenshot images.
-<img src="http://plugins.svn.wordpress.org/wp-yearly-and-monthly-archive-list/assets/wp-yearly-monthly-archiev-list-img1.jpg"> 
-<img src="http://plugins.svn.wordpress.org/wp-yearly-and-monthly-archive-list/assets/wp-yearly-monthly-archiev-list-img2.jpg">
+<img src="assets/wp-yearly-monthly-archiev-list-img1.jpg"> 
+<img src="assets/wp-yearly-monthly-archiev-list-img2.jpg">
 
 
 == Upgrade Notice ==
