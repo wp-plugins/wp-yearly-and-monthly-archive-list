@@ -42,9 +42,8 @@ Ans:  The plugin is no way conflicts with any other database table but it is sug
 == Screenshots ==
 
 The functionality can be found in the screenshot images.
-<img src="assets/wp-yearly-monthly-archiev-list-img1.jpg"> 
-<img src="assets/wp-yearly-monthly-archiev-list-img2.jpg">
-
+1. screenshot-1
+2. screenshot-2
 
 == Upgrade Notice ==
 = 1.0 =
